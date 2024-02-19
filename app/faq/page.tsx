@@ -10,7 +10,7 @@ export default function page() {
     <div>
       <HeaderTop />
       <Header />
-      <BreadCumb title="FAQ" />
+      <BreadCumb title="FAQ" description="io" />
       <Faq />
       <Footer />
     </div>

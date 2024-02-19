@@ -11,7 +11,7 @@ export default function page() {
     <div>
       <HeaderTop />
       <Header />
-      <BreadCumb title="Contact" />
+      <BreadCumb title="Contact" description="Something fishy" />
       <Contact />
       <Footer />
     </div>
